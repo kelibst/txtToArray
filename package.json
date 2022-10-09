@@ -1,0 +1,19 @@
+{
+  "name": "txttoarray",
+  "version": "1.0.0",
+  "description": "A NodeJs application that processes local TXT file and return an array containing the value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelibst/txtToArray.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelibst/txtToArray/issues"
+  },
+  "homepage": "https://github.com/kelibst/txtToArray#readme"
+}
