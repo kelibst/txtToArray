@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kelibst/txtToArray/issues"
   },
-  "homepage": "https://github.com/kelibst/txtToArray#readme"
+  "homepage": "https://github.com/kelibst/txtToArray#readme",
+  "dependencies": {
+    "concat-stream": "^2.0.0"
+  }
 }
