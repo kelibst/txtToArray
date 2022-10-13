@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kelibst/txtToArray#readme",
   "dependencies": {
     "concat-stream": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.5"
   }
 }
